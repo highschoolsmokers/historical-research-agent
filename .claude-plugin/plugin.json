@@ -1,0 +1,10 @@
+{
+  "name": "historical-research-agent",
+  "description": "Historical research agent for writers — investigates real people, cultures, places, events, and newspaper archives to ground fiction in accurate detail",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gong"
+  },
+  "repository": "https://github.com/highschoolsmokers/historical-research-agent",
+  "license": "MIT"
+}
