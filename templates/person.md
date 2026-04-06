@@ -47,9 +47,15 @@
 1. [Primary and secondary sources]
 2.
 
+## Unknowns & Gaps
+
+- [What the historical record doesn't tell us about this person]
+- [Periods of their life that are undocumented]
+- [Claims that are widely repeated but poorly sourced]
+
 ## Notes
 
-- [Research gaps, contradictions, fictional liberties being taken]
+- [Contradictions, fictional liberties being taken]
 
 ---
-*See also:* [cross-references]
+*Related Research:* [cross-references to related entries]

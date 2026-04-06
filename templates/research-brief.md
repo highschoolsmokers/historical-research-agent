@@ -38,6 +38,14 @@
 1. [Source with URL or citation]
 2.
 
+## Unknowns & Gaps
+
+- [What the research didn't resolve]
+- [Where sources were thin or contradictory]
+
 ## Further Research
 
 - [ ] [Topics worth digging into next]
+
+---
+*Related Research:* [cross-references to related entries]

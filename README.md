@@ -6,7 +6,9 @@ A historical research agent for writers. Helps you investigate real people, cult
 
 - **Historical research** — Investigates periods, people, places, cultures, and events, surfacing the vivid, story-relevant details writers actually need
 - **Newspaper & media lookups** — Searches digitized newspaper archives to find contemporary coverage of events in specific places and periods
+- **Manuscript review** — Reads your drafts and flags anachronisms by severity, with period-accurate alternatives
 - **Fact-checking** — Flags anachronisms, common misconceptions, and gaps between documented history and your narrative
+- **Source confidence scoring** — Rates information reliability from primary sources (★★★★) down to popular belief (★)
 - **Research organization** — Maintains structured Markdown reference files using templates
 
 ## Install
@@ -47,6 +49,9 @@ The `templates/` directory contains starter templates for research entries:
 | `culture.md` | A culture or society at a specific point in time |
 | `event.md` | A historical event |
 | `timeline.md` | Chronology with concurrent world events |
+| `daily-life.md` | A day in the life of a specific time, place, and class |
+| `language-glossary.md` | Period vocabulary, slang, idioms, and speech patterns |
+| `comparison.md` | Comparing different sources/accounts of the same subject |
 | `research-brief.md` | General research on a topic, with newspaper coverage |
 
 ### Using templates
@@ -94,11 +99,43 @@ anything that's anachronistic — wrong slang, objects that didn't exist
 yet, events out of order, that kind of thing."
 ```
 
+### Review a manuscript
+
+```
+"Review this chapter (./drafts/chapter-7.md) for historical accuracy. 
+Categorize issues by severity — I need to know what's definitely wrong
+vs. what's just uncertain."
+```
+
 ### Research a location in a specific era
 
 ```
 "What did San Francisco's Barbary Coast look like in 1875? I need the
 sights, sounds, smells — what a character walking through would experience."
+```
+
+### Build a daily-life reference
+
+```
+"Create a daily-life entry for a merchant's wife in 1340s Florence.
+I need to know what her day looked like hour by hour — meals, tasks,
+social interactions, sensory details."
+```
+
+### Build a period language glossary
+
+```
+"Put together a language glossary for 1860s New York — especially
+Five Points slang and working-class speech. I need to know what words
+to use and which ones to avoid as anachronisms."
+```
+
+### Compare conflicting accounts
+
+```
+"Create a comparison entry for the death of Cleopatra — what do the
+ancient sources actually say vs. the popular version? I want to know
+where the accounts diverge."
 ```
 
 ## Tips
@@ -107,3 +144,5 @@ sights, sounds, smells — what a character walking through would experience."
 - **Point it at your files.** The agent works best when it can read your existing notes, outlines, and drafts
 - **Ask for newspapers.** Contemporary media coverage gives you period-accurate language and reveals how people experienced events in real time
 - **Track what's real vs. invented.** The templates include sections for separating documented fact from your fictional choices
+- **Use the glossary template for dialogue.** Period language is where most historical fiction breaks immersion — build a glossary before writing dialogue-heavy scenes
+- **Check source confidence.** The agent rates findings from ★★★★ (primary source) to ★ (popular belief) so you know what to trust

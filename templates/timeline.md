@@ -27,7 +27,14 @@
 1. [Primary and secondary sources]
 2.
 
+## Unknowns & Gaps
+
+- [Periods where the chronology is uncertain or debated]
+- [Events that are approximately but not precisely dated]
+
 ## Notes
 
 - **Calendar system:** [if relevant — Julian vs. Gregorian, local calendars, etc.]
-- **Research gaps:** [periods or events that need further investigation]
+
+---
+*Related Research:* [cross-references to related entries]

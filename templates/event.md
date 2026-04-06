@@ -45,9 +45,15 @@
 1. [Primary and secondary sources]
 2.
 
+## Unknowns & Gaps
+
+- [What we don't know about this event]
+- [Details that are assumed but not documented]
+- [Aspects where accounts are contradictory or silent]
+
 ## Notes
 
-- [Research gaps, fictional liberties being taken]
+- [Fictional liberties being taken]
 
 ---
-*See also:* [cross-references]
+*Related Research:* [cross-references to related entries]
