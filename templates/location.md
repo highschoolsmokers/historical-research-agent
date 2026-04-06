@@ -46,9 +46,14 @@
 1. [Primary and secondary sources]
 2.
 
+## Unknowns & Gaps
+
+- [What the historical record doesn't tell us about this place in this era]
+- [Details we're inferring rather than documenting]
+
 ## Notes
 
-- [Research gaps, things to verify]
+- [Things to verify, fictional liberties being taken]
 
 ---
-*See also:* [cross-references]
+*Related Research:* [cross-references to related entries]

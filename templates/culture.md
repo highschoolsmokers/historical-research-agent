@@ -39,9 +39,14 @@
 1. [Primary and secondary sources]
 2.
 
+## Unknowns & Gaps
+
+- [What the historical record doesn't tell us about this culture in this period]
+- [Where we're relying on outside observers rather than the culture's own voices]
+
 ## Notes
 
-- [Research gaps, things to verify]
+- [Things to verify, fictional liberties being taken]
 
 ---
-*See also:* [cross-references to related entries]
+*Related Research:* [cross-references to related entries]
