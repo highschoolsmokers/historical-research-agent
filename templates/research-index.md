@@ -34,6 +34,15 @@
 ### Timeline
 - [Link to entries]
 
+### Daily Life
+- [Link to entries]
+
+### Language & Dialogue
+- [Link to entries]
+
+### Comparisons
+- [Link to entries]
+
 ### Research Briefs
 - [Link to entries]
 
