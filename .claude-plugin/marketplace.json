@@ -1,0 +1,14 @@
+{
+  "name": "historical-research-agent",
+  "description": "Historical research agent for writers — investigates real people, cultures, places, events, and newspaper archives to ground fiction in accurate detail",
+  "owner": {
+    "name": "W.S. Gong"
+  },
+  "plugins": [
+    {
+      "name": "historical-research-agent",
+      "source": "./",
+      "description": "Historical research agent for writers — investigates real people, cultures, places, events, and newspaper archives to ground fiction in accurate detail"
+    }
+  ]
+}

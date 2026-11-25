@@ -16,8 +16,8 @@ A historical research agent for writers. Helps you investigate real people, cult
 ### As a Claude Code plugin
 
 ```bash
-/plugin marketplace add highschoolsmokers/writer-utilities-marketplace
-/plugin install historical-research-agent
+/plugin marketplace add highschoolsmokers/historical-research-agent
+/plugin install historical-research-agent@historical-research-agent
 ```
 
 ### Manual install
