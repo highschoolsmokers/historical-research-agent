@@ -146,3 +146,7 @@ where the accounts diverge."
 - **Track what's real vs. invented.** The templates include sections for separating documented fact from your fictional choices
 - **Use the glossary template for dialogue.** Period language is where most historical fiction breaks immersion — build a glossary before writing dialogue-heavy scenes
 - **Check source confidence.** The agent rates findings from ★★★★ (primary source) to ★ (popular belief) so you know what to trust
+
+## License
+
+MIT. See [LICENSE](LICENSE).
